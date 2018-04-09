@@ -21,3 +21,8 @@
 
 * Download Adafruit Neopixel library
 * Run `strandtest` sketch
+* Neopixel should light up
+* Upload custom sketch
+* Turn on mobile phone's flashlight and point it to the photocell - the Neopixel should light up.
+* Try chaining everyone's circuits to see if it works.
+
