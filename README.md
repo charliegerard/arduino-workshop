@@ -10,7 +10,7 @@
 
 * Arduino Uno
 
-![Arduino Uno](./images/arduino.png =100)
+<img src="./images/arduino.png" width="50" />
 
 * Breadboard
 
