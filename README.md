@@ -10,7 +10,7 @@
 
 * Arduino Uno
 
-<img src="./images/arduino.png" style="width: 100px">
+![Arduino Uno](./images/arduino.png =100)
 
 * Breadboard
 
