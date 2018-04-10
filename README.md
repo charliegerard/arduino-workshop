@@ -47,10 +47,16 @@
 
 ### Test your circuit
 
-* Download Adafruit Neopixel library
-* Run `strandtest` sketch
-* Neopixel should light up
-* Upload custom sketch
+* Download the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
+* Install the Adafruit Neopixel library:
+  * Open the Arduino IDE.
+  * In the menu bar: `Sketch > Include Library > Manage Libraries` and enter "Adafruit Neopixel".
+  <img src="./images/library.png" width="150">
+  * You may have to close and re-open the IDE after installation.
+* `File > Examples > Adafruit Neopixel > strandtest`
+* Check that your board is selected in `Tools > Board` and `Tools > Port`
+* Click on the upload button and the Neopixel should light up
+* Upload the custom sketch `workshop.ino`
 * Turn on mobile phone's flashlight and point it to the photocell - the Neopixel should light up.
 * Try chaining everyone's circuits to see if it works.
 
