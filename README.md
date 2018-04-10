@@ -51,7 +51,8 @@
 * Install the Adafruit Neopixel library:
   * Open the Arduino IDE.
   * In the menu bar: `Sketch > Include Library > Manage Libraries` and enter "Adafruit Neopixel".
-  <img src="./images/library.png" width="150">
+  <img src="./images/library.png" width="400">
+
   * You may have to close and re-open the IDE after installation.
 * `File > Examples > Adafruit Neopixel > strandtest`
 * Check that your board is selected in `Tools > Board` and `Tools > Port`
