@@ -10,31 +10,31 @@
 
 * Arduino Uno
 
-<img src="./images/arduino.png" width="50" />
+<img src="./images/arduino.png" width="150" />
 
 * Breadboard
 
-<img src="./images/breadboard.png" style="width: 100px">
+<img src="./images/breadboard.png" width="150">
 
 * Neopixel RGB v2
 
-<img src="./images/flora.jpg" style="width: 100px">
+<img src="./images/flora.jpg" width="150">
 
 * Photocell (light sensor)
 
-<img src="./images/photocell.png" style="width: 100px">
+<img src="./images/photocell.png" width="150">
 
 * Resistor
 
-<img src="./images/resistor.png" style="width: 100px">
+<img src="./images/resistor.png" width="150">
 
 * Jumper wires
 
-<img src="./images/jumper-wires.png" style="width: 100px">
+<img src="./images/jumper-wires.png" width="150">
 
 * Aligator clips
 
-<img src="./images/clips.png" style="width: 100px">
+<img src="./images/clips.png" width="150">
 
 ---
 
