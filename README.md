@@ -40,7 +40,7 @@
 
 ## Wiring the circuit:
 
-![schematics](workshop_schem.png)
+![schematics](workshop_2.png)
 
 ---
 
