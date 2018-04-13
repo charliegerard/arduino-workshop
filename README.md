@@ -65,4 +65,8 @@
 
 * Custom circuit with ATTiny chips
 
+Something like that:
+
+![next](images/workshop-next.png)
+
 
